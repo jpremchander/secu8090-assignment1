@@ -9,3 +9,4 @@ server/.dbdata
 server/.fakemail
 server/apidoc
 dist/
+.env
